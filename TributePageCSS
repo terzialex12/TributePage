@@ -1,0 +1,31 @@
+body{
+    background-color: lightgrey;
+}
+#title {
+  background-color: lightgrey;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 40px;
+}
+p{
+  font-size: medium;
+  font-weight: normal;
+}
+#image-div{
+  text-align: center;
+}
+
+#Stitle{
+  font-size: medium;
+}
+li{
+  font-weight: normal;
+  font-size: medium;
+}
+#tribute-info{
+  color: grey;
+  font-size: medium;
+}
+#link{
+  font-size: 25px;
+}
